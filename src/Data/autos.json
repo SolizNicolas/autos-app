@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "marca": "Ford",
+    "modelo": "Ranger",
+    "localidad": "Ciudad",
+    "imagen": "1.jpg",
+    "anio": "2016",
+    "precio": "700000",
+    "km": "8700",
+    "destacado": "Y"
+  },
+  {
+    "id": "2",
+    "marca": "Dodge",
+    "modelo": "Journey",
+    "localidad": "San Fernando del Valle de Catamarca",
+    "imagen": "2.jpg",
+    "anio": "2017",
+    "precio": "750000",
+    "km": "8700",
+    "destacado": "N"
+  },
+  {
+    "id": "3",
+    "marca": "Ford",
+    "modelo": "Focus II",
+    "localidad": "GodoyCruz",
+    "imagen": "3.jpg",
+    "anio": "2012",
+    "precio": "300000",
+    "km": "8700",
+    "destacado": "Y"
+  },
+  {
+    "id": "4",
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "localidad": "San Martin",
+    "imagen": "4.jpg",
+    "anio": "2007",
+    "precio": "115000",
+    "km": "8700",
+    "destacado": "N"
+  },
+  {
+    "id": "5",
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "localidad": "Guaymallen",
+    "imagen": "5.jpg",
+    "anio": "2012",
+    "precio": "325000",
+    "km": "8700",
+    "destacado": "N"
+  },
+  {
+    "id": "6",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "localidad": "Las Heras",
+    "imagen": "6.jpg",
+    "anio": "2015",
+    "precio": "3308876",
+    "km": "8700",
+    "destacado": "N"
+  },
+  {
+    "id": "7",
+    "marca": "Chevrolet",
+    "modelo": "S-10",
+    "localidad": "San Rafael",
+    "imagen": "7.jpg",
+    "anio": "2006",
+    "precio": "320000",
+    "km": "8700",
+    "destacado": "Y"
+  },
+  {
+    "id": "8",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "localidad": "Malargue",
+    "imagen": "8.jpg",
+    "anio": "2014",
+    "precio": "400000",
+    "km": "8700",
+    "destacado": "N"
+  },
+  {
+    "id": "9",
+    "marca": "Nissan",
+    "modelo": "Tiida",
+    "localidad": "Tupungato",
+    "imagen": "9.jpg",
+    "anio": "2013",
+    "precio": "265000",
+    "km": "8700",
+    "destacado": "N"
+  },
+  {
+    "id": "10",
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "localidad": "Tunuyan",
+    "imagen": "10.jpg",
+    "anio": "2018",
+    "precio": "0",
+    "km": "8700",
+    "destacado": "N"
+  },
+  {
+    "id": "11",
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "localidad": "Gral. Alvear",
+    "imagen": "11.jpg",
+    "anio": "2018",
+    "precio": "0",
+    "km": "8700",
+    "destacado": "Y"
+  },
+  {
+    "id": "12",
+    "marca": "Ford",
+    "modelo": "EcoSport KD",
+    "localidad": "Maipu",
+    "imagen": "12.jpg",
+    "anio": "2014",
+    "precio": "390000",
+    "km": "8700",
+    "destacado": "N"
+  }
+]
